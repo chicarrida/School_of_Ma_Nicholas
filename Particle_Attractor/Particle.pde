@@ -1,6 +1,7 @@
 
 // - - - - - - - - - - - - - - - - - - - - - - - 
 // PARTICLE CLASS
+//thanks to feltron(https://github.com/feltron) for this
 // - - - - - - - - - - - - - - - - - - - - - - - 
 class Particle { 
   PVector location_p, velocity_p, location_old, orbit, orbit_average;
