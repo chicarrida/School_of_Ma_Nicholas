@@ -1,5 +1,6 @@
 // - - - - - - - - - - - - - - - - - - - - - - - 
 // ATTRACTOR CLASS
+// thanks to feltron(https://github.com/feltron) for this
 // - - - - - - - - - - - - - - - - - - - - - - - 
 class Attractor { 
   String name;
